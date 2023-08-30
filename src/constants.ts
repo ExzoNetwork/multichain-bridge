@@ -71,7 +71,7 @@ export const networks:any = {
   [ChainId.MATICMAIN]: 'https://rpc-mainnet.maticvigil.com',
   [ChainId.FTMMAIN]: 'https://rpcapi.fantom.network',
   [ChainId.KCC]: 'https://rpc-mainnet.kcc.network',
-  [ChainId.VLX]: 'https://evm.exzo.network/,
+  [ChainId.VLX]: 'https://evm.exzoscan.io/rpc',
   [ChainId.FSNMAIN]: 'https://mainnet.anyswap.exchange',
   [ChainId.AVAXMAIN]: 'https://api.avax.network/ext/bc/C/rpc',
   [ChainId.HARMONY]: 'https://api.harmony.one',
